@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fearlessproj-dev-183852-authRole",
+      "UnauthRoleArn": "arn:aws:iam::070399979322:role/amplify-fearlessproj-dev-183852-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::070399979322:role/amplify-fearlessproj-dev-183852-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-fearlessproj-dev-183852-deployment",
+      "UnauthRoleName": "amplify-fearlessproj-dev-183852-unauthRole",
+      "StackName": "amplify-fearlessproj-dev-183852",
+      "StackId": "arn:aws:cloudformation:us-east-2:070399979322:stack/amplify-fearlessproj-dev-183852/ac0d09e0-3267-11ee-868a-065156746111",
+      "AmplifyAppId": "dk7lzzfnmo6s9"
+    },
+    "categories": {
+      "auth": {
+        "fearlessproj01779cec": {},
+        "fearlessprojf463812b": {},
+        "fearlessProj": {}
+      }
+    }
+  }
+}

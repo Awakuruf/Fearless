@@ -1,0 +1,26 @@
+[
+    {
+        "streetName": "Evans Ave", 
+        "headlines": ["Here is your morning roundup on transit, weather and road closures in Toronto.\nWeather:\n Expect a high of 29 C and UV index of 8 or very high. More information is available \nhere\n.\nTTC:\n There's no service between Kennedy and McCowan on Line 3 due to a track level investigation. Shuttle buses are running instead. \n \nVisit the \nTTC webpage\n for latest updates on subway, streetcar and bus service delays.\nGO Transit:\n Delays reported on the Lakeshore East and Barrie train lines. Click \nhere\n to get information on GO service delays."], 
+        "links": ["https://www.toronto.com/news-story/10966584-live-now-your-thursday-aug-3-updates-on-traffic-weather-and-more-in-toronto/"]
+    },
+    {
+        "streetName": "Queensway", 
+        "headlines": ["The streets of Toronto will be filled with colourful costumes and music of the Caribbean islands as thousands of revellers are expected to flock to the city to see The Grand Parade.\n\nThe event will be held on the grounds of Exhibition Place on Saturday to culminate the Toronto Caribbean Carnival. Over 10,000 masqueraders are set to perform in the all-day affair.\n\nToronto police say they also expect increased activity in the evening hours at restaurants and clubs, and that's why they will have dedicated resources downtown and in the waterfront area to maintain public safety."],
+        "links": ["https://www.cp24.com/news/toronto-caribbean-carnival-grand-parade-road-closures-1.6505828"]
+    },
+    {
+        "streetName": "Bloor St West", 
+        "headlines": 
+        ["A number of events will take place on Tuesday in Toronto to mark the start of Emancipation Month.\n \n From noon to 2:30 p.m. today, the Blackhurst Cultural Centre will host a community walk to commemorate this important milestone for descendants of enslaved Africans.\n \n Co-sponsored by the city's Confronting Anti-Black Racism unit, the event will begin at the Blackhurst Cultural Centre at 777 Bathurst St. and run westward along Bloor Street West to Christie Pits Park at 750 Bloor St. W. Pannists and other performers will be stationed on sidewalks along the way.",
+        "You might consider yourself somewhat of a breakfast connoisseur if you've tried most of these \npopular Toronto brunch spots\n.\nThe city is brimming with delicious places to get early morning eats, and no matter what your cravings are, these spots offer the \nultimate brunch satisfaction\n.\nPrice: 💸💸\nCuisine: Brunch\nAddress: 85 Hanna Ave., Toronto, ON\nWhy You Need To Go: Home of the iconic Mrs. Biederhof's Blueberry Buttermilk Pancakes, this place is a must-visit for brunch lovers. You can enjoy all sorts of sweet and savoury dishes at this downtown spot located just off King West.",
+        "Toronto is one expensive city to live in and its rental market does not make you feel like a winner. For the second year running, Toronto has clinched the honour of having the highest cost of living in Canada, according to \nMercer's Cost of Living Survey\n.\nBut what makes us reach for our wallets the most? Well, it's the median price for a one-bedroom Toronto apartment, which these days ring in at a meaty $2,400 a month — \nan increase of $400\n from what tenants were shelling out last summer.\nBut dry those teary eyes, because a flicker of hope has ignited in Toronto's urban jungle.",
+        "The following is a selection of featured events from \ntoronto.com\n's self-submitting events calendar along with selected events from the \ncity's event listings\n. Link\n \nhere\n \nto our own full calendar at \ntoronto.com\n.\nWEDNESDAY, AUG. 2\nDanceWorks presents the premiere of the full-length Moving Parts by Denise Fujiwara, as part of the highly anticipated annual summer festival, \nDusk Dances 2023\n at Withrow Park, 725 Logan Ave., July 30 (preview) to Aug. 6. Dance workshop begins at 7 p.m. Dance performances begins at 7:30 p.m."],
+        "links": 
+        ["https://toronto.ctvnews.ca/events-held-in-toronto-on-tuesday-to-kick-off-emancipation-month-1.6502182",
+        "https://www.narcity.com/toronto/popular-toronto-brunch-you-need-to-try-at-least-once", 
+        "https://www.narcity.com/6-toronto-apartments-offering-free-rent-other-bonuses-move-in",
+        "https://www.toronto.com/whatson-story/9994592-things-to-do-in-toronto-aug-2-to-10-2023/",
+        "https://muslimlink.ca/events/ottawa/event/18174"]
+    }
+]
