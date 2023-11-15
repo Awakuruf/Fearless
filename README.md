@@ -2,7 +2,7 @@
 
 <img width="1000" alt="fearless" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/417/588/datas/original.jpeg">
 
-# 👉 Choose your own path, Fearlessly 🌟
+# Choose your own path, Fearlessly 🌟
 
 > Quick link to the latest update: [(Link Coming Soon...) ](https://github.com/Awakuruf/Fearless/)
 
