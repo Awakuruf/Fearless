@@ -1,6 +1,6 @@
 # Fearless
 
-<img width="1000" alt="fearless" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/417/588/datas/original.jpeg">
+<img width="1000" alt="fearless" src="https://github.com/Awakuruf/Fearless/blob/2961f46a9940ea6fce74b849be1c421ecee11f12/assets/fearless.jpeg">
 
 # Choose your own path, Fearlessly 🌟
 
@@ -21,7 +21,7 @@ For vulnerable individuals travelling to unfamiliar areas or walking alone at ni
 They may not feel comfortable contacting traditional emergency services such as 911 until it’s too late. 
 This can lead to feelings of powerlessness and a sense of isolation. 
 This application mitigates these problems by integrating preparedness and adaptability.
-<img width="222" alt="user-journey" src="https://www.canva.com/design/DAFqjgdyDaw/XRJcWS5CfAvZdpoY_XpbQA/view">
+<img width="777" alt="user-journey" src="https://github.com/Awakuruf/Fearless/blob/2961f46a9940ea6fce74b849be1c421ecee11f12/assets/user_journey.jpg">
 
 The mobile navigation app “Fearless” addresses this problem by providing a range of safety tools and resources, including 📞 fake call feature , 🚨 alert button, and ⛔️ real time information on dangerous areas.
 
@@ -49,6 +49,6 @@ In-depth documentation 📚 will accompany the project, ensuring that even those
 
 For a sneak peek into our architectural vision, check out the preliminary diagram below. Or [Demo Video](https://github.com/Awakuruf/Fearless/). 
 
-<img width="777" alt="Architecture-Diagram" src="https://github.com/Awakuruf/Fearless/assets/architecture_diagram.jpg">
+<img width="777" alt="Architecture-Diagram" src="https://github.com/Awakuruf/Fearless/blob/372d4a5811cbabb520798fbb0e387a36fa95d67c/assets/architecture_diagram.jpg">
 
 # 🌟 Next Step 👉🚀 [docs/README.md](docs/README.md) 
