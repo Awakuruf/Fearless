@@ -47,7 +47,7 @@ In-depth documentation 📚 will accompany the project, ensuring that even those
 
 ... and countless other possibilities! 🌌
 
-For a sneak peek into our architectural vision, check out the preliminary diagram below. Or [Demo Video](https://github.com/Awakuruf/Fearless/). 
+For a sneak peek into our architectural vision, check out the preliminary diagram below. Or [Demo Video](https://youtu.be/2gqv1Vk61IY). 
 
 <img width="777" alt="Architecture-Diagram" src="https://github.com/Awakuruf/Fearless/blob/372d4a5811cbabb520798fbb0e387a36fa95d67c/assets/architecture_diagram.jpg">
 
